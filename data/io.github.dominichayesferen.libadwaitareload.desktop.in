@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Libadwaita Plasma Color Sync
+Exec=libadwaitareload
+Icon=io.github.dominichayesferen.libadwaitareload
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true

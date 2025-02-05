@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/io.github.dominichayesferen.libadwaitareload.desktop.in
+data/io.github.dominichayesferen.libadwaitareload.metainfo.xml.in
+data/io.github.dominichayesferen.libadwaitareload.gschema.xml
+src/main.py
+src/window.py
+src/window.ui
